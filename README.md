@@ -7,5 +7,5 @@ Your development machine may be connected to a secure network behind a firewall.
 FinalOutput pic
 ![](https://github.com/Akriti96/class126/blob/main/Screenshot%202021-12-01%20011437.png)
 
-ngrok post status
+ postman status
 ![](https://github.com/Akriti96/class126/blob/main/Screenshot%202021-12-01%20011459.png)
