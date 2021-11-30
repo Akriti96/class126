@@ -9,3 +9,6 @@ FinalOutput pic
 
  postman status
 ![](https://github.com/Akriti96/class126/blob/main/Screenshot%202021-12-01%20011459.png)
+
+ngrok post status
+![](https://github.com/Akriti96/class126/blob/main/Screenshot%202021-12-01%20011512.png)
